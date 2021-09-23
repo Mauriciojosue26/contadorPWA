@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.menor {
+  color: rgb(245, 119, 119);
+}
+
+.mayor {
+  color: rgb(124, 206, 131);
+}
+
+button {
+  margin: 0px 0.5rem;
+}
